@@ -1,5 +1,21 @@
-BFG Repo-Cleaner [![Build Status](https://travis-ci.org/rtyley/bfg-repo-cleaner.svg?branch=master)](https://travis-ci.org/rtyley/bfg-repo-cleaner)
+BFG Repo-Cleaner (without politics) [![Build Status](https://travis-ci.org/rtyley/bfg-repo-cleaner.svg?branch=master)](https://travis-ci.org/rtyley/bfg-repo-cleaner)
 ================
+
+Why fork?
+*********
+
+https://github.com/rtyley/bfg-repo-cleaner/issues/205
+
+I don't care much for politics, and I really don't want to have to care because
+of a stupid message that pops up whenever I use the tool. Leave American politics
+out of code. (Unless you're programming a voting machine...or a nuclear reactor,
+I guess...?)
+
+[Code is a form of expression](https://github.com/rtyley/bfg-repo-cleaner/issues/205#issuecomment-285049770),
+as is using the bathroom.
+
+Original README
+***************
 
 _Removes large or troublesome blobs like git-filter-branch does, but faster - and written in Scala_ - [Fund the BFG](https://j.mp/fund-bfg)
 
