@@ -1,4 +1,4 @@
-BFG Repo-Cleaner (without politics) [![Build Status](https://travis-ci.org/rtyley/bfg-repo-cleaner.svg?branch=master)](https://travis-ci.org/rtyley/bfg-repo-cleaner) ![Coverity Scan Status](https://scan.coverity.com/projects/20652/badge.svg)
+BFG Repo-Cleaner (without politics) [![Build Status](https://travis-ci.org/rtyley/bfg-repo-cleaner.svg?branch=master)](https://travis-ci.org/rtyley/bfg-repo-cleaner) ![Coverity Scan Status](https://scan.coverity.com/projects/20653/badge.svg)
 ================
 
 ## Why fork?
